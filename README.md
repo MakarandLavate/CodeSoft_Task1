@@ -1,2 +1,2 @@
-# CodeSoft_Task1
+#Task1
 Portfolio website using the HTML and CSS
